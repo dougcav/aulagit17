@@ -1,4 +1,4 @@
 linha1
 linha2
 linha3
-# adicionado Gitignore 
+linha4 
