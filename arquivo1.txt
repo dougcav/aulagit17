@@ -1,4 +1,8 @@
 linha1
 linha2
+<<<<<<< HEAD
 linha34
+=======
+linha33
+>>>>>>> hotfix
 linha4 
